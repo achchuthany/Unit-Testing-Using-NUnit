@@ -1,0 +1,9 @@
+D:\achchuthan.org\UnitTesting\program\Mailer\bin\Debug\Mailer.dll
+D:\achchuthan.org\UnitTesting\program\Mailer\bin\Debug\Mailer.pdb
+D:\achchuthan.org\UnitTesting\program\Mailer\bin\Debug\Moq.dll
+D:\achchuthan.org\UnitTesting\program\Mailer\bin\Debug\nunit.framework.dll
+D:\achchuthan.org\UnitTesting\program\Mailer\bin\Debug\Moq.xml
+D:\achchuthan.org\UnitTesting\program\Mailer\bin\Debug\nunit.framework.xml
+D:\achchuthan.org\UnitTesting\program\Mailer\obj\Debug\Mailer.dll
+D:\achchuthan.org\UnitTesting\program\Mailer\obj\Debug\Mailer.pdb
+D:\achchuthan.org\UnitTesting\program\Mailer\obj\Debug\Mailer.csprojResolveAssemblyReference.cache
